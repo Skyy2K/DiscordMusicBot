@@ -1,0 +1,31 @@
+{
+  "name": "discordmusicbot",
+  "version": "0.0.1",
+  "description": "A simple Discord music bot using discord-player made by SkyIsCool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyy2K/MusicBot.git"
+  },
+  "keywords": [
+    "discord",
+    "musicbot",
+    "discord-music-bot"
+  ],
+  "author": "https://github.com/Skyy2K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skyy2K/MusicBot/issues"
+  },
+  "homepage": "https://github.com/Skyy2K/MusicBot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "chalk": "^4.1.0",
+    "discord-player": "^5.3.1",
+    "discord.js": "^14.2.0",
+    "ffmpeg-static": "^5.0.2"
+  }
+}
