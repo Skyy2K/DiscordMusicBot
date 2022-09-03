@@ -4,7 +4,7 @@ A simple Discord Music Bot created by [Skyy](https://github.com/Skyy2K) using [d
 
 ## Setup
 
-View this video to see how to setup the bot: <NOT SETUP>
+View this video to see how to setup the bot: https://www.youtube.com/watch?v=azMy_ttzC08
 
 ## Features
 
