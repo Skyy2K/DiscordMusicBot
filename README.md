@@ -17,6 +17,8 @@ View this video to see how to setup the bot: https://www.youtube.com/watch?v=azM
 
 Please do not take off the footer for the bot, it is used to recognise the original author of the bot.
 We don't exactly support creating your own version and calling it "your own".
+Please do not also take off/modify any credits in messages, console logs, etc as again it is used to recognise the original owner of the source code!
+If you were to go under my rules (to not follow and edit the credits) I will be taking action.
 Do not speak in a way like:
 
 - "we did it"
